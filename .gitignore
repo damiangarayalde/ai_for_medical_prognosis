@@ -1,0 +1,9 @@
+*.env
+env.*
+*.env.*
+/env
+**/data
+**/images
+*/models
+Files.zip
+Files*
